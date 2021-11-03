@@ -1,0 +1,8 @@
+{
+    "name": "sparky10/elementor-pro",
+    "description": "Fork of Elementor Pro for use with composer",
+    "type": "wordpress-plugin",
+    "minimum-stability": "stable",
+    "require": {}
+}
+
